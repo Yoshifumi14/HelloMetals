@@ -1,0 +1,1 @@
+https://scalameta.org/metals/

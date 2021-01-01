@@ -1,0 +1,12 @@
+# metalsプラグイン関連
+/.vscode/
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
+
+# sbt関連
+target/
+
+# Mac用
+.DS_Store
